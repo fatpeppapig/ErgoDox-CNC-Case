@@ -5,7 +5,7 @@
       <ModificationCount>0</ModificationCount>
       <objects>
         <pline id="7" Closed="true">
-          <ModificationCount>142</ModificationCount>
+          <ModificationCount>148</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p>46.4564367592775,139.809250879889,0</p>
@@ -64,7 +64,7 @@
           </pts>
         </pline>
         <pline id="2" Closed="true">
-          <ModificationCount>54</ModificationCount>
+          <ModificationCount>60</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p b="0.41421356237309503">193.640578033433,165.79105949787,0</p>
@@ -94,28 +94,28 @@
     <layer name="Mounts" color="127,255,0">
       <ModificationCount>0</ModificationCount>
       <objects>
-        <circle id="4" c="55.5037877841094,131.44527788153,0" d="4">
-          <ModificationCount>2</ModificationCount>
+        <circle id="4" c="55.5037877841094,131.44527788153,0" d="5">
+          <ModificationCount>9</ModificationCount>
           <mat m="Identity" />
         </circle>
-        <circle id="5" c="174.811296919287,129.309337820287,0" d="4">
-          <ModificationCount>66</ModificationCount>
+        <circle id="5" c="174.811296919287,129.309337820287,0" d="5">
+          <ModificationCount>73</ModificationCount>
           <mat m="Identity" />
         </circle>
-        <circle id="6" c="170.234282502337,53.025764204444,0" d="4">
-          <ModificationCount>54</ModificationCount>
+        <circle id="6" c="170.234282502337,53.025764204444,0" d="5">
+          <ModificationCount>61</ModificationCount>
           <mat m="Identity" />
         </circle>
-        <circle id="8" c="64.6578166180105,43.8717353705429,0" d="4">
-          <ModificationCount>64</ModificationCount>
+        <circle id="8" c="64.6578166180105,43.8717353705429,0" d="5">
+          <ModificationCount>71</ModificationCount>
           <mat m="Identity" />
         </circle>
-        <circle id="9" c="56.1140563730361,78.9621792338305,0" d="4">
-          <ModificationCount>37</ModificationCount>
+        <circle id="9" c="56.1140563730361,78.9621792338305,0" d="5">
+          <ModificationCount>44</ModificationCount>
           <mat m="Identity" />
         </circle>
-        <circle id="10" c="26.2108955156258,35.9382437144952,0" d="4">
-          <ModificationCount>38</ModificationCount>
+        <circle id="10" c="26.2108955156258,35.9382437144952,0" d="5">
+          <ModificationCount>45</ModificationCount>
           <mat m="Identity" />
         </circle>
       </objects>
@@ -131,18 +131,31 @@
   </MachiningOptions>
   <parts>
     <part Name="6mm">
+      <machineops />
+      <Stock>
+        <PMin>0,0</PMin>
+        <PMax>0,0</PMax>
+        <Color>255,165,0</Color>
+      </Stock>
+      <ToolProfile>Unspecified</ToolProfile>
+      <Nesting>
+        <BasePoint>0,0</BasePoint>
+        <NestMethod>None</NestMethod>
+      </Nesting>
+    </part>
+    <part Name="3mm">
       <machineops>
         <pocket>
           <WorkPlane state="Default">XY</WorkPlane>
           <OptimisationMode state="Default">Experimental</OptimisationMode>
           <RoughingFinishing state="Value">Finishing</RoughingFinishing>
-          <ToolDiameter state="Default">6</ToolDiameter>
-          <ToolNumber state="Value">6</ToolNumber>
+          <ToolDiameter state="Default">3</ToolDiameter>
+          <ToolNumber state="Value">3</ToolNumber>
           <ToolProfile state="Default">EndMill</ToolProfile>
           <PlungeFeedrate state="Default">300</PlungeFeedrate>
-          <CutFeedrate state="Default">800</CutFeedrate>
+          <CutFeedrate state="Value">800</CutFeedrate>
           <MaxCrossoverDistance state="Default">0.7</MaxCrossoverDistance>
-          <StartPoint state="Default" />
+          <StartPoint state="Default">0,0,0</StartPoint>
           <CustomMOPHeader state="Default" />
           <CustomMOPFooter state="Default" />
           <Name>Pocket1</Name>
@@ -157,7 +170,7 @@
             <prim>7</prim>
           </primitive>
           <TargetDepth state="Value">-8</TargetDepth>
-          <DepthIncrement state="Value">4</DepthIncrement>
+          <DepthIncrement state="Value">1.5</DepthIncrement>
           <FinalDepthIncrement state="Default">0</FinalDepthIncrement>
           <CutOrdering state="Value">LevelFirst</CutOrdering>
           <StepOver state="Default">0.4</StepOver>
@@ -170,20 +183,6 @@
           <FinishStepover state="Default">0</FinishStepover>
           <FinishStepoverAtTargetDepth state="Default">False</FinishStepoverAtTargetDepth>
         </pocket>
-      </machineops>
-      <Stock>
-        <PMin>0,0</PMin>
-        <PMax>0,0</PMax>
-        <Color>255,165,0</Color>
-      </Stock>
-      <ToolProfile>Unspecified</ToolProfile>
-      <Nesting>
-        <BasePoint>0,0</BasePoint>
-        <NestMethod>None</NestMethod>
-      </Nesting>
-    </part>
-    <part Name="3mm">
-      <machineops>
         <profile>
           <WorkPlane state="Default">XY</WorkPlane>
           <OptimisationMode state="Default">Experimental</OptimisationMode>
@@ -194,7 +193,7 @@
           <PlungeFeedrate state="Default">300</PlungeFeedrate>
           <CutFeedrate state="Default">800</CutFeedrate>
           <MaxCrossoverDistance state="Default">0.7</MaxCrossoverDistance>
-          <StartPoint state="Default" />
+          <StartPoint state="Default">0,0,0</StartPoint>
           <CustomMOPHeader state="Default" />
           <CustomMOPFooter state="Default" />
           <Name>Profile1</Name>
@@ -209,7 +208,7 @@
             <prim>7</prim>
           </primitive>
           <TargetDepth state="Value">-8</TargetDepth>
-          <DepthIncrement state="Value">8</DepthIncrement>
+          <DepthIncrement state="Value">1.5</DepthIncrement>
           <FinalDepthIncrement state="Default">0</FinalDepthIncrement>
           <CutOrdering state="Default">DepthFirst</CutOrdering>
           <CutWidth state="Default">0</CutWidth>
@@ -264,7 +263,7 @@
             <prim>10</prim>
           </primitive>
           <TargetDepth state="Value">-18</TargetDepth>
-          <DepthIncrement state="Value">4</DepthIncrement>
+          <DepthIncrement state="Value">1.5</DepthIncrement>
           <DrillLeadOut state="Default">False</DrillLeadOut>
           <SpiralFlatBase state="Default">True</SpiralFlatBase>
           <LeadOutLength state="Default">0</LeadOutLength>
@@ -282,7 +281,7 @@
       </Stock>
       <ToolProfile>Unspecified</ToolProfile>
       <Nesting>
-        <BasePoint />
+        <BasePoint>0,0</BasePoint>
         <NestMethod>None</NestMethod>
       </Nesting>
     </part>
@@ -298,7 +297,7 @@
           <PlungeFeedrate state="Default">300</PlungeFeedrate>
           <CutFeedrate state="Default">800</CutFeedrate>
           <MaxCrossoverDistance state="Default">0.7</MaxCrossoverDistance>
-          <StartPoint state="Default" />
+          <StartPoint state="Default">0,0,0</StartPoint>
           <CustomMOPHeader state="Default" />
           <CustomMOPFooter state="Default" />
           <Name>Profile2</Name>
@@ -313,7 +312,7 @@
             <prim>2</prim>
           </primitive>
           <TargetDepth state="Value">-18</TargetDepth>
-          <DepthIncrement state="Value">6</DepthIncrement>
+          <DepthIncrement state="Value">1.5</DepthIncrement>
           <FinalDepthIncrement state="Default">0</FinalDepthIncrement>
           <CutOrdering state="Default">DepthFirst</CutOrdering>
           <CutWidth state="Default">0</CutWidth>
@@ -362,7 +361,7 @@
           <PlungeFeedrate state="Default">300</PlungeFeedrate>
           <CutFeedrate state="Default">800</CutFeedrate>
           <MaxCrossoverDistance state="Default">0.7</MaxCrossoverDistance>
-          <StartPoint state="Default" />
+          <StartPoint state="Default">0,0,0</StartPoint>
           <CustomMOPHeader state="Default" />
           <CustomMOPFooter state="Default" />
           <Name>Profile2</Name>
@@ -410,11 +409,65 @@
       </Stock>
       <ToolProfile>Unspecified</ToolProfile>
       <Nesting>
+        <BasePoint>0,0</BasePoint>
+        <NestMethod>None</NestMethod>
+      </Nesting>
+    </part>
+    <part Name="Dziury">
+      <machineops>
+        <drill>
+          <WorkPlane state="Default">XY</WorkPlane>
+          <OptimisationMode state="Default">Experimental</OptimisationMode>
+          <RoughingFinishing state="Default">Roughing</RoughingFinishing>
+          <ToolDiameter state="Default">3</ToolDiameter>
+          <ToolNumber state="Value">3</ToolNumber>
+          <ToolProfile state="Default">EndMill</ToolProfile>
+          <PlungeFeedrate state="Default">300</PlungeFeedrate>
+          <CutFeedrate state="Default">800</CutFeedrate>
+          <MaxCrossoverDistance state="Default">0.7</MaxCrossoverDistance>
+          <StartPoint state="Default" />
+          <CustomMOPHeader state="Default" />
+          <CustomMOPFooter state="Default" />
+          <Name>Drill1</Name>
+          <StockSurface state="Value">-8</StockSurface>
+          <RoughingClearance state="Default">0</RoughingClearance>
+          <ClearancePlane state="Default">3</ClearancePlane>
+          <SpindleDirection state="Default">CW</SpindleDirection>
+          <SpindleSpeed state="Default">1000</SpindleSpeed>
+          <SpindleRange state="Default">0</SpindleRange>
+          <VelocityMode state="Default">Undefined</VelocityMode>
+          <primitive>
+            <prim>4</prim>
+            <prim>5</prim>
+            <prim>6</prim>
+            <prim>8</prim>
+            <prim>9</prim>
+            <prim>10</prim>
+          </primitive>
+          <TargetDepth state="Value">-18</TargetDepth>
+          <DepthIncrement state="Value">1.5</DepthIncrement>
+          <DrillLeadOut state="Default">False</DrillLeadOut>
+          <SpiralFlatBase state="Default">True</SpiralFlatBase>
+          <LeadOutLength state="Default">0</LeadOutLength>
+          <DrillingMethod state="Default">SpiralMill_CW</DrillingMethod>
+          <PeckDistance state="Default">0</PeckDistance>
+          <RetractHeight state="Default">3</RetractHeight>
+          <Dwell state="Default">0</Dwell>
+          <CustomScript state="Default" />
+        </drill>
+      </machineops>
+      <Stock>
+        <PMin>0,0</PMin>
+        <PMax>0,0</PMax>
+        <Color>255,165,0</Color>
+      </Stock>
+      <ToolProfile>Unspecified</ToolProfile>
+      <Nesting>
         <BasePoint />
         <NestMethod>None</NestMethod>
       </Nesting>
     </part>
   </parts>
   <ActiveLayer>Mounts</ActiveLayer>
-  <ActivePart>Wycinek 6mm</ActivePart>
+  <ActivePart>Dziury</ActivePart>
 </CADFile>
