@@ -5,17 +5,17 @@
       <ModificationCount>20</ModificationCount>
       <objects>
         <circle id="56" c="122.593385532214,104.373163376987,0" d="3">
-          <ModificationCount>3</ModificationCount>
+          <ModificationCount>7</ModificationCount>
           <Tag>Pins</Tag>
           <mat m="Identity" />
         </circle>
         <circle id="57" c="37.4526805322142,30.1290463769872,0" d="3">
-          <ModificationCount>3</ModificationCount>
+          <ModificationCount>7</ModificationCount>
           <Tag>Pins</Tag>
           <mat m="Identity" />
         </circle>
         <pline id="2" Closed="true">
-          <ModificationCount>113</ModificationCount>
+          <ModificationCount>117</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p>48.9588675322141,137.850326376987,0</p>
@@ -41,7 +41,7 @@
           </pts>
         </pline>
         <pline id="3" Closed="true">
-          <ModificationCount>113</ModificationCount>
+          <ModificationCount>117</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p>48.9588675322141,100.070408376987,0</p>
@@ -67,7 +67,7 @@
           </pts>
         </pline>
         <pline id="4" Closed="true">
-          <ModificationCount>113</ModificationCount>
+          <ModificationCount>117</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p>48.9588675322141,71.4954403769873,0</p>
@@ -93,7 +93,7 @@
           </pts>
         </pline>
         <pline id="5" Closed="true">
-          <ModificationCount>113</ModificationCount>
+          <ModificationCount>117</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p>163.258740532214,59.7479533769872,0</p>
@@ -119,7 +119,7 @@
           </pts>
         </pline>
         <pline id="6" Closed="true">
-          <ModificationCount>113</ModificationCount>
+          <ModificationCount>117</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p>68.0088465322141,118.802887376987,0</p>
@@ -145,7 +145,7 @@
           </pts>
         </pline>
         <pline id="7" Closed="true">
-          <ModificationCount>113</ModificationCount>
+          <ModificationCount>117</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p>17.0184035322141,38.8132963769872,0</p>
@@ -171,7 +171,7 @@
           </pts>
         </pline>
         <pline id="8" Closed="true">
-          <ModificationCount>113</ModificationCount>
+          <ModificationCount>117</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p>25.0701945322141,21.5463953769872,0</p>
@@ -197,7 +197,7 @@
           </pts>
         </pline>
         <pline id="9" Closed="true">
-          <ModificationCount>113</ModificationCount>
+          <ModificationCount>117</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p>8.96915253221409,56.0776573769872,0</p>
@@ -223,7 +223,7 @@
           </pts>
         </pline>
         <pline id="10" Closed="true">
-          <ModificationCount>113</ModificationCount>
+          <ModificationCount>117</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p>26.2335125322141,64.1269083769872,0</p>
@@ -249,7 +249,7 @@
           </pts>
         </pline>
         <pline id="11" Closed="true">
-          <ModificationCount>113</ModificationCount>
+          <ModificationCount>117</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p>144.208761532214,135.945328376987,0</p>
@@ -275,7 +275,7 @@
           </pts>
         </pline>
         <pline id="12" Closed="true">
-          <ModificationCount>113</ModificationCount>
+          <ModificationCount>117</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p>125.158782532214,139.122864376987,0</p>
@@ -301,7 +301,7 @@
           </pts>
         </pline>
         <pline id="13" Closed="true">
-          <ModificationCount>113</ModificationCount>
+          <ModificationCount>117</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p>106.108804532214,140.720523376987,0</p>
@@ -327,7 +327,7 @@
           </pts>
         </pline>
         <pline id="14" Closed="true">
-          <ModificationCount>113</ModificationCount>
+          <ModificationCount>117</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p>87.0588255322141,139.122864376987,0</p>
@@ -353,7 +353,7 @@
           </pts>
         </pline>
         <pline id="15" Closed="true">
-          <ModificationCount>113</ModificationCount>
+          <ModificationCount>117</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p>125.158782532214,62.9229493769872,0</p>
@@ -379,7 +379,7 @@
           </pts>
         </pline>
         <pline id="16" Closed="true">
-          <ModificationCount>113</ModificationCount>
+          <ModificationCount>117</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p>144.208761532214,116.897889376987,0</p>
@@ -405,7 +405,7 @@
           </pts>
         </pline>
         <pline id="17" Closed="true">
-          <ModificationCount>113</ModificationCount>
+          <ModificationCount>117</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p>106.108804532214,121.670544376987,0</p>
@@ -431,7 +431,7 @@
           </pts>
         </pline>
         <pline id="18" Closed="true">
-          <ModificationCount>113</ModificationCount>
+          <ModificationCount>117</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p>87.0588255322141,120.072886376987,0</p>
@@ -457,7 +457,7 @@
           </pts>
         </pline>
         <pline id="19" Closed="true">
-          <ModificationCount>113</ModificationCount>
+          <ModificationCount>117</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p>144.208761532214,97.8479103769872,0</p>
@@ -483,7 +483,7 @@
           </pts>
         </pline>
         <pline id="20" Closed="true">
-          <ModificationCount>113</ModificationCount>
+          <ModificationCount>117</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p>125.158782532214,101.022907376987,0</p>
@@ -509,7 +509,7 @@
           </pts>
         </pline>
         <pline id="21" Closed="true">
-          <ModificationCount>113</ModificationCount>
+          <ModificationCount>117</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p>106.108804532214,102.620565376987,0</p>
@@ -535,7 +535,7 @@
           </pts>
         </pline>
         <pline id="22" Closed="true">
-          <ModificationCount>113</ModificationCount>
+          <ModificationCount>117</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p>87.0588255322141,101.022907376987,0</p>
@@ -561,7 +561,7 @@
           </pts>
         </pline>
         <pline id="23" Closed="true">
-          <ModificationCount>113</ModificationCount>
+          <ModificationCount>117</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p>68.0088465322141,99.7529083769872,0</p>
@@ -587,7 +587,7 @@
           </pts>
         </pline>
         <pline id="24" Closed="true">
-          <ModificationCount>113</ModificationCount>
+          <ModificationCount>117</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p>144.208761532214,78.7979313769873,0</p>
@@ -613,7 +613,7 @@
           </pts>
         </pline>
         <pline id="25" Closed="true">
-          <ModificationCount>113</ModificationCount>
+          <ModificationCount>117</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p>125.158782532214,81.9729283769872,0</p>
@@ -639,7 +639,7 @@
           </pts>
         </pline>
         <pline id="26" Closed="true">
-          <ModificationCount>113</ModificationCount>
+          <ModificationCount>117</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p>106.108804532214,83.5705863769872,0</p>
@@ -665,7 +665,7 @@
           </pts>
         </pline>
         <pline id="27" Closed="true">
-          <ModificationCount>113</ModificationCount>
+          <ModificationCount>117</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p>87.0588255322141,81.9729283769872,0</p>
@@ -691,7 +691,7 @@
           </pts>
         </pline>
         <pline id="28" Closed="true">
-          <ModificationCount>113</ModificationCount>
+          <ModificationCount>117</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p>68.0088465322141,80.7029293769872,0</p>
@@ -717,7 +717,7 @@
           </pts>
         </pline>
         <pline id="29" Closed="true">
-          <ModificationCount>113</ModificationCount>
+          <ModificationCount>117</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p>144.208761532214,59.7479533769872,0</p>
@@ -743,7 +743,7 @@
           </pts>
         </pline>
         <pline id="30" Closed="true">
-          <ModificationCount>113</ModificationCount>
+          <ModificationCount>117</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p>106.108804532214,64.5206073769872,0</p>
@@ -769,7 +769,7 @@
           </pts>
         </pline>
         <pline id="31" Closed="true">
-          <ModificationCount>113</ModificationCount>
+          <ModificationCount>117</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p>87.0588255322141,62.9229493769872,0</p>
@@ -795,7 +795,7 @@
           </pts>
         </pline>
         <pline id="32" Closed="true">
-          <ModificationCount>113</ModificationCount>
+          <ModificationCount>117</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p>61.4759735322141,33.6190023769872,0</p>
@@ -821,7 +821,7 @@
           </pts>
         </pline>
         <pline id="33" Closed="true">
-          <ModificationCount>113</ModificationCount>
+          <ModificationCount>117</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p>44.2116125322141,25.5672113769872,0</p>
@@ -847,7 +847,7 @@
           </pts>
         </pline>
         <pline id="34" Closed="true">
-          <ModificationCount>113</ModificationCount>
+          <ModificationCount>117</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p>125.158782532214,120.072886376987,0</p>
@@ -873,7 +873,7 @@
           </pts>
         </pline>
         <pline id="35" Closed="true">
-          <ModificationCount>113</ModificationCount>
+          <ModificationCount>117</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p>68.0088465322141,137.850326376987,0</p>
@@ -899,7 +899,7 @@
           </pts>
         </pline>
         <pline id="36" Closed="true">
-          <ModificationCount>113</ModificationCount>
+          <ModificationCount>117</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p>168.021235532214,135.945328376987,0</p>
@@ -925,7 +925,7 @@
           </pts>
         </pline>
         <pline id="37" Closed="true">
-          <ModificationCount>113</ModificationCount>
+          <ModificationCount>117</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p>168.021235532214,116.897889376987,0</p>
@@ -951,7 +951,7 @@
           </pts>
         </pline>
         <pline id="38" Closed="true">
-          <ModificationCount>113</ModificationCount>
+          <ModificationCount>117</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p>168.021235532214,97.8479103769872,0</p>
@@ -977,7 +977,7 @@
           </pts>
         </pline>
         <pline id="39" Closed="true">
-          <ModificationCount>113</ModificationCount>
+          <ModificationCount>117</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p>168.021235532214,78.7979313769873,0</p>
@@ -1003,7 +1003,7 @@
           </pts>
         </pline>
         <pline id="40" Closed="true">
-          <ModificationCount>113</ModificationCount>
+          <ModificationCount>117</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p>64.7525705322141,57.8480353769872,0</p>
@@ -1013,7 +1013,7 @@
           </pts>
         </pline>
         <pline id="42" Closed="true">
-          <ModificationCount>113</ModificationCount>
+          <ModificationCount>117</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p>74.8439785322141,36.2072593769872,0</p>
@@ -1023,7 +1023,7 @@
           </pts>
         </pline>
         <pline id="43" Closed="true">
-          <ModificationCount>113</ModificationCount>
+          <ModificationCount>117</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p>47.6939485322141,19.9030173769872,0</p>
@@ -1033,7 +1033,7 @@
           </pts>
         </pline>
         <pline id="44" Closed="true">
-          <ModificationCount>113</ModificationCount>
+          <ModificationCount>117</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p>37.6025405322141,41.5437933769872,0</p>
@@ -1043,7 +1043,7 @@
           </pts>
         </pline>
         <pline id="53" Closed="true">
-          <ModificationCount>3</ModificationCount>
+          <ModificationCount>7</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p>188.470721419014,138.332187162915,0</p>
@@ -1107,7 +1107,7 @@
       <ModificationCount>13</ModificationCount>
       <objects>
         <pline id="131" Closed="true">
-          <ModificationCount>114</ModificationCount>
+          <ModificationCount>118</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p b="-0.41421396492750867">54.1031495322141,158.830703376987,0</p>
@@ -1117,7 +1117,7 @@
           </pts>
         </pline>
         <pline id="132" Closed="true">
-          <ModificationCount>114</ModificationCount>
+          <ModificationCount>118</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p b="-0.414213795908075">104.903092532214,158.830703376987,0</p>
@@ -1127,7 +1127,7 @@
           </pts>
         </pline>
         <pline id="133" Closed="true">
-          <ModificationCount>114</ModificationCount>
+          <ModificationCount>118</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p b="-0.414213795908094">187.834000532214,158.830703376987,0</p>
@@ -1137,7 +1137,7 @@
           </pts>
         </pline>
         <pline id="134" Closed="true">
-          <ModificationCount>114</ModificationCount>
+          <ModificationCount>118</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p b="-0.41421338785864648">125.731069532214,104.373163376987,0</p>
@@ -1147,7 +1147,7 @@
           </pts>
         </pline>
         <pline id="135" Closed="true">
-          <ModificationCount>114</ModificationCount>
+          <ModificationCount>118</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p b="-0.41421378223772143">188.468999532214,55.9100173769872,0</p>
@@ -1157,7 +1157,7 @@
           </pts>
         </pline>
         <pline id="136" Closed="true">
-          <ModificationCount>114</ModificationCount>
+          <ModificationCount>118</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p b="-0.41421396492749041">92.1269075322141,38.2062373769872,0</p>
@@ -1167,7 +1167,7 @@
           </pts>
         </pline>
         <pline id="138" Closed="true">
-          <ModificationCount>114</ModificationCount>
+          <ModificationCount>118</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p b="-0.41421396492750479">40.5903645322141,30.1290463769872,0</p>
@@ -1177,7 +1177,7 @@
           </pts>
         </pline>
         <pline id="140" Closed="true">
-          <ModificationCount>114</ModificationCount>
+          <ModificationCount>118</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p>40.1258915281929,73.7695097668775,0</p>
@@ -1215,7 +1215,7 @@
       <ModificationCount>11</ModificationCount>
       <objects>
         <pline id="55" Closed="true">
-          <ModificationCount>48</ModificationCount>
+          <ModificationCount>52</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p>59.3860299474468,167.707497376987,0</p>
@@ -1245,70 +1245,70 @@
           </pts>
         </pline>
         <circle id="75" c="50.9654655322141,158.830703376987,0" d="6">
-          <ModificationCount>188</ModificationCount>
+          <ModificationCount>192</ModificationCount>
           <Tag>Pins</Tag>
           <mat m="Identity" />
         </circle>
         <circle id="84" c="101.765408532214,158.830703376987,0" d="6">
-          <ModificationCount>188</ModificationCount>
+          <ModificationCount>192</ModificationCount>
           <Tag>Pins</Tag>
           <mat m="Identity" />
         </circle>
         <circle id="91" c="184.696316532214,158.830703376987,0" d="6">
-          <ModificationCount>188</ModificationCount>
+          <ModificationCount>192</ModificationCount>
           <Tag>Pins</Tag>
           <mat m="Identity" />
         </circle>
         <circle id="98" c="122.593385532214,104.373163376987,0" d="6">
-          <ModificationCount>188</ModificationCount>
+          <ModificationCount>192</ModificationCount>
           <Tag>Pins</Tag>
           <mat m="Identity" />
         </circle>
         <circle id="105" c="185.331316532214,55.9100173769873,0" d="6">
-          <ModificationCount>188</ModificationCount>
+          <ModificationCount>192</ModificationCount>
           <Tag>Pins</Tag>
           <mat m="Identity" />
         </circle>
         <circle id="112" c="88.989223532214,38.2062373769873,0" d="6">
-          <ModificationCount>188</ModificationCount>
+          <ModificationCount>192</ModificationCount>
           <Tag>Pins</Tag>
           <mat m="Identity" />
         </circle>
         <circle id="119" c="37.4526805322142,30.1290463769872,0" d="6">
-          <ModificationCount>188</ModificationCount>
+          <ModificationCount>192</ModificationCount>
           <Tag>Pins</Tag>
           <mat m="Identity" />
         </circle>
         <circle id="128" c="50.9654655322141,158.830703376987,0" d="3.5">
-          <ModificationCount>188</ModificationCount>
+          <ModificationCount>192</ModificationCount>
           <mat m="Identity" />
         </circle>
         <circle id="129" c="101.765408532214,158.830703376987,0" d="3.5">
-          <ModificationCount>188</ModificationCount>
+          <ModificationCount>192</ModificationCount>
           <mat m="Identity" />
         </circle>
         <circle id="130" c="184.696316532214,158.830703376987,0" d="3.5">
-          <ModificationCount>188</ModificationCount>
+          <ModificationCount>192</ModificationCount>
           <mat m="Identity" />
         </circle>
         <circle id="137" c="122.593385532214,104.373163376987,0" d="3.5">
-          <ModificationCount>188</ModificationCount>
+          <ModificationCount>192</ModificationCount>
           <mat m="Identity" />
         </circle>
         <circle id="139" c="185.331316532214,55.9100173769873,0" d="3.5">
-          <ModificationCount>188</ModificationCount>
+          <ModificationCount>192</ModificationCount>
           <mat m="Identity" />
         </circle>
         <circle id="141" c="88.989223532214,38.2062373769873,0" d="3.5">
-          <ModificationCount>188</ModificationCount>
+          <ModificationCount>192</ModificationCount>
           <mat m="Identity" />
         </circle>
         <circle id="142" c="37.4526805322142,30.1290463769872,0" d="3.5">
-          <ModificationCount>188</ModificationCount>
+          <ModificationCount>192</ModificationCount>
           <mat m="Identity" />
         </circle>
         <pline id="64">
-          <ModificationCount>49</ModificationCount>
+          <ModificationCount>53</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p>62.2967651152487,165.125844491227,0</p>
@@ -1316,7 +1316,7 @@
           </pts>
         </pline>
         <pline id="66">
-          <ModificationCount>49</ModificationCount>
+          <ModificationCount>53</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p>116.35061206347,165.125844491227,0</p>
@@ -1324,7 +1324,7 @@
           </pts>
         </pline>
         <pline id="41" Closed="true">
-          <ModificationCount>18</ModificationCount>
+          <ModificationCount>22</ModificationCount>
           <Tag>Internal</Tag>
           <mat m="Identity" />
           <pts>
@@ -1366,7 +1366,7 @@
           </pts>
         </pline>
         <pline id="45" Closed="true">
-          <ModificationCount>18</ModificationCount>
+          <ModificationCount>22</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p b="0.57735026918962573">41.5903635322142,30.1290463769872,0</p>
@@ -1375,7 +1375,7 @@
           </pts>
         </pline>
         <pline id="46" Closed="true">
-          <ModificationCount>18</ModificationCount>
+          <ModificationCount>22</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p b="0.577350269189625">55.103148532214,158.830703376987,0</p>
@@ -1384,7 +1384,7 @@
           </pts>
         </pline>
         <pline id="47" Closed="true">
-          <ModificationCount>18</ModificationCount>
+          <ModificationCount>22</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p b="0.57735026918962529">105.903091532215,158.830703376987,0</p>
@@ -1393,7 +1393,7 @@
           </pts>
         </pline>
         <pline id="48" Closed="true">
-          <ModificationCount>18</ModificationCount>
+          <ModificationCount>22</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p b="0.57735026918962729">188.833999532213,158.830703376987,0</p>
@@ -1402,7 +1402,7 @@
           </pts>
         </pline>
         <pline id="49" Closed="true">
-          <ModificationCount>18</ModificationCount>
+          <ModificationCount>22</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p b="0.57735026918962584">126.731069532214,104.373163376987,0</p>
@@ -1411,7 +1411,7 @@
           </pts>
         </pline>
         <pline id="50" Closed="true">
-          <ModificationCount>18</ModificationCount>
+          <ModificationCount>22</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p b="0.577350269189625">189.469000532214,55.9100173769873,0</p>
@@ -1420,7 +1420,7 @@
           </pts>
         </pline>
         <pline id="51" Closed="true">
-          <ModificationCount>18</ModificationCount>
+          <ModificationCount>22</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p b="0.57735026918962584">93.126907532214,38.2062373769873,0</p>
@@ -1429,7 +1429,7 @@
           </pts>
         </pline>
         <pline id="52" Closed="true">
-          <ModificationCount>1</ModificationCount>
+          <ModificationCount>5</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p>59.3860299474468,167.707497376987,0</p>
@@ -1459,7 +1459,7 @@
       <ModificationCount>5</ModificationCount>
       <objects>
         <pline id="74" Closed="true">
-          <ModificationCount>62</ModificationCount>
+          <ModificationCount>66</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p>59.3860299474468,177.208396610399,0</p>
@@ -1484,7 +1484,7 @@
           </pts>
         </pline>
         <pline id="70" Closed="true">
-          <ModificationCount>110</ModificationCount>
+          <ModificationCount>114</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p>59.3860299474468,177.208396610399,2.96452521075082E-19</p>
@@ -1514,7 +1514,7 @@
           </pts>
         </pline>
         <pline id="97" Closed="true">
-          <ModificationCount>46</ModificationCount>
+          <ModificationCount>50</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p>188.471365858831,206.111410680218,-3.53918501493066E-15</p>
@@ -1573,30 +1573,30 @@
           </pts>
         </pline>
         <circle id="116" c="88.989223532214,306.709656610399,-1.58585101298793E-14" d="3">
-          <ModificationCount>47</ModificationCount>
+          <ModificationCount>51</ModificationCount>
           <mat m="Identity" />
         </circle>
         <circle id="117" c="185.331316532214,289.005876610399,-1.36904939824119E-14" d="3">
-          <ModificationCount>47</ModificationCount>
+          <ModificationCount>51</ModificationCount>
           <mat m="Identity" />
         </circle>
         <circle id="118" c="184.696316532214,186.085190610399,-1.08676138087616E-15" d="3">
-          <ModificationCount>47</ModificationCount>
+          <ModificationCount>51</ModificationCount>
           <mat m="Identity" />
         </circle>
         <circle id="120" c="101.765408532214,186.085190610399,-1.08676138087616E-15" d="3">
-          <ModificationCount>47</ModificationCount>
+          <ModificationCount>51</ModificationCount>
           <mat m="Identity" />
         </circle>
         <circle id="121" c="50.9654655322141,186.085190610399,-1.08676138087616E-15" d="3">
-          <ModificationCount>47</ModificationCount>
+          <ModificationCount>51</ModificationCount>
           <mat m="Identity" />
         </circle>
         <entity xsi:type="Region" id="122">
-          <ModificationCount>45</ModificationCount>
+          <ModificationCount>49</ModificationCount>
           <mat m="Identity" />
           <OuterCurve Closed="true">
-            <ModificationCount>17</ModificationCount>
+            <ModificationCount>21</ModificationCount>
             <mat m="Identity" />
             <pts>
               <p>188.471365858831,204.611410680218,0</p>
@@ -1636,7 +1636,7 @@
           </OuterCurve>
           <HoleCurves>
             <Polyline Closed="true">
-              <ModificationCount>17</ModificationCount>
+              <ModificationCount>21</ModificationCount>
               <mat m="Identity" />
               <pts>
                 <p b="0.57735026918962573">187.833999532214,186.085190610399,-1.08676138087616E-15</p>
@@ -1645,7 +1645,7 @@
               </pts>
             </Polyline>
             <Polyline Closed="true">
-              <ModificationCount>17</ModificationCount>
+              <ModificationCount>21</ModificationCount>
               <mat m="Identity" />
               <pts>
                 <p b="0.57735026918962573">104.903091532214,186.085190610399,-1.08676138087616E-15</p>
@@ -1654,7 +1654,7 @@
               </pts>
             </Polyline>
             <Polyline Closed="true">
-              <ModificationCount>17</ModificationCount>
+              <ModificationCount>21</ModificationCount>
               <mat m="Identity" />
               <pts>
                 <p b="0.57735026918962573">54.1031485322141,186.085190610399,-1.08676138087616E-15</p>
@@ -1665,7 +1665,7 @@
           </HoleCurves>
         </entity>
         <pline id="126">
-          <ModificationCount>88</ModificationCount>
+          <ModificationCount>92</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p>62.2967651152487,179.790049496159,1.32459899653202E-16</p>
@@ -1673,7 +1673,7 @@
           </pts>
         </pline>
         <pline id="143">
-          <ModificationCount>88</ModificationCount>
+          <ModificationCount>92</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p>116.35061206347,179.790049496159,1.32459899653202E-16</p>
@@ -1686,7 +1686,7 @@
       <ModificationCount>2</ModificationCount>
       <objects>
         <rect id="145" Closed="true" w="220" h="350">
-          <ModificationCount>22</ModificationCount>
+          <ModificationCount>26</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p>0,0,0</p>
@@ -1696,67 +1696,67 @@
           </pts>
         </rect>
         <circle id="146" c="8.18853044656686,341.858483424769,0" d="4">
-          <ModificationCount>17</ModificationCount>
+          <ModificationCount>21</ModificationCount>
           <mat m="Identity" />
         </circle>
         <circle id="147" c="111.203291975321,327.053966797882,0" d="4">
-          <ModificationCount>17</ModificationCount>
+          <ModificationCount>21</ModificationCount>
           <mat m="Identity" />
         </circle>
         <circle id="149" c="171.152571971246,327.053966797882,0" d="4">
-          <ModificationCount>17</ModificationCount>
+          <ModificationCount>21</ModificationCount>
           <mat m="Identity" />
         </circle>
         <circle id="151" c="111.203291975321,244.066352500972,0" d="4">
-          <ModificationCount>17</ModificationCount>
+          <ModificationCount>21</ModificationCount>
           <mat m="Identity" />
         </circle>
         <circle id="158" c="8.18853044656684,244.066352500972,0" d="4">
-          <ModificationCount>17</ModificationCount>
+          <ModificationCount>21</ModificationCount>
           <mat m="Identity" />
         </circle>
         <circle id="160" c="8.18853044656683,172.839077286393,0" d="4">
-          <ModificationCount>17</ModificationCount>
+          <ModificationCount>21</ModificationCount>
           <mat m="Identity" />
         </circle>
         <circle id="162" c="8.18853044656682,101.611802071813,0" d="4">
-          <ModificationCount>17</ModificationCount>
+          <ModificationCount>21</ModificationCount>
           <mat m="Identity" />
         </circle>
         <circle id="163" c="8.1885304465668,8.58998886039462,0" d="4">
-          <ModificationCount>84</ModificationCount>
+          <ModificationCount>88</ModificationCount>
           <mat m="Identity" />
         </circle>
         <circle id="165" c="172.88782872501,8.58998886039458,0" d="4">
-          <ModificationCount>17</ModificationCount>
+          <ModificationCount>21</ModificationCount>
           <mat m="Identity" />
         </circle>
         <circle id="167" c="111.969372508318,8.58998886039459,0" d="4">
-          <ModificationCount>17</ModificationCount>
+          <ModificationCount>21</ModificationCount>
           <mat m="Identity" />
         </circle>
         <circle id="175" c="209.433814209688,327.053966797882,0" d="4">
-          <ModificationCount>17</ModificationCount>
+          <ModificationCount>21</ModificationCount>
           <mat m="Identity" />
         </circle>
         <circle id="176" c="209.433814209688,8.58998886039457,0" d="4">
-          <ModificationCount>17</ModificationCount>
+          <ModificationCount>21</ModificationCount>
           <mat m="Identity" />
         </circle>
         <circle id="182" c="209.433814209688,172.839077286393,0" d="4">
-          <ModificationCount>17</ModificationCount>
+          <ModificationCount>21</ModificationCount>
           <mat m="Identity" />
         </circle>
         <circle id="193" c="209.433814209688,244.066352500972,0" d="4">
-          <ModificationCount>17</ModificationCount>
+          <ModificationCount>21</ModificationCount>
           <mat m="Identity" />
         </circle>
         <circle id="194" c="209.433814209688,101.611802071813,0" d="4">
-          <ModificationCount>17</ModificationCount>
+          <ModificationCount>21</ModificationCount>
           <mat m="Identity" />
         </circle>
         <circle id="195" c="41.6023512220519,308.08795521865,0" d="4">
-          <ModificationCount>17</ModificationCount>
+          <ModificationCount>21</ModificationCount>
           <mat m="Identity" />
         </circle>
       </objects>
@@ -2838,7 +2838,7 @@
               <ParametricPoint>0.23535260062463853</ParametricPoint>
               <Normal>
                 <X>-0.99920404129270357</X>
-                <Y>0.039890899517675445</Y>
+                <Y>0.03989089951767464</Y>
               </Normal>
             </HoldingTab>
             <HoldingTab>
@@ -2864,8 +2864,8 @@
               <ParentEntityID>52</ParentEntityID>
               <ParametricPoint>0.32949364087449395</ParametricPoint>
               <Normal>
-                <X>-0.391571262376322</X>
-                <Y>-0.92014778513074391</Y>
+                <X>-0.39157126237631956</X>
+                <Y>-0.9201477851307448</Y>
               </Normal>
             </HoldingTab>
             <HoldingTab>
@@ -2936,7 +2936,7 @@
               <ParentEntityID>52</ParentEntityID>
               <ParametricPoint>0.58053641487410834</ParametricPoint>
               <Normal>
-                <X>-0.0082621018300091248</X>
+                <X>-0.0082621018300069651</X>
                 <Y>-0.99996586825418721</Y>
               </Normal>
             </HoldingTab>
@@ -2945,8 +2945,8 @@
               <ParentEntityID>52</ParentEntityID>
               <ParametricPoint>0.61191676162406017</ParametricPoint>
               <Normal>
-                <X>0.99825646390426082</X>
-                <Y>-0.059025691638142232</Y>
+                <X>0.998256463904261</X>
+                <Y>-0.059025691638140074</Y>
               </Normal>
             </HoldingTab>
             <HoldingTab>
@@ -2999,8 +2999,8 @@
               <ParentEntityID>52</ParentEntityID>
               <ParametricPoint>0.800198842123771</ParametricPoint>
               <Normal>
-                <X>0.042406814474026756</X>
-                <Y>0.99910042642677588</Y>
+                <X>0.042406814474010644</X>
+                <Y>0.99910042642677654</Y>
               </Normal>
             </HoldingTab>
             <HoldingTab>
@@ -3060,7 +3060,7 @@
             <HoldingTab>
               <NormalInverted>false</NormalInverted>
               <ParentEntityID>74</ParentEntityID>
-              <ParametricPoint>0.015690173374975906</ParametricPoint>
+              <ParametricPoint>0.01569017337497592</ParametricPoint>
               <Normal>
                 <X>0.025327824118205371</X>
                 <Y>-0.999679199206144</Y>
@@ -3069,7 +3069,7 @@
             <HoldingTab>
               <NormalInverted>false</NormalInverted>
               <ParentEntityID>74</ParentEntityID>
-              <ParametricPoint>0.047070520124927767</ParametricPoint>
+              <ParametricPoint>0.047070520124927712</ParametricPoint>
               <Normal>
                 <X>-1</X>
                 <Y>0</Y>
@@ -3078,7 +3078,7 @@
             <HoldingTab>
               <NormalInverted>false</NormalInverted>
               <ParentEntityID>74</ParentEntityID>
-              <ParametricPoint>0.078450866874879482</ParametricPoint>
+              <ParametricPoint>0.0784508668748796</ParametricPoint>
               <Normal>
                 <X>-1</X>
                 <Y>0</Y>
@@ -3087,7 +3087,7 @@
             <HoldingTab>
               <NormalInverted>false</NormalInverted>
               <ParentEntityID>74</ParentEntityID>
-              <ParametricPoint>0.10983121362483134</ParametricPoint>
+              <ParametricPoint>0.10983121362483136</ParametricPoint>
               <Normal>
                 <X>-1</X>
                 <Y>0</Y>
@@ -3096,7 +3096,7 @@
             <HoldingTab>
               <NormalInverted>false</NormalInverted>
               <ParentEntityID>74</ParentEntityID>
-              <ParametricPoint>0.14121156037478314</ParametricPoint>
+              <ParametricPoint>0.14121156037478325</ParametricPoint>
               <Normal>
                 <X>-1</X>
                 <Y>0</Y>
@@ -3105,97 +3105,97 @@
             <HoldingTab>
               <NormalInverted>false</NormalInverted>
               <ParentEntityID>74</ParentEntityID>
-              <ParametricPoint>0.17259190712473496</ParametricPoint>
+              <ParametricPoint>0.17259190712473507</ParametricPoint>
               <Normal>
-                <X>-0.42261502479575308</X>
-                <Y>-0.90630929644183011</Y>
+                <X>-0.42261502479575819</X>
+                <Y>-0.90630929644182767</Y>
               </Normal>
             </HoldingTab>
             <HoldingTab>
               <NormalInverted>false</NormalInverted>
               <ParentEntityID>74</ParentEntityID>
-              <ParametricPoint>0.20397225387468676</ParametricPoint>
+              <ParametricPoint>0.2039722538746869</ParametricPoint>
               <Normal>
-                <X>-0.42261502479575308</X>
-                <Y>-0.90630929644183011</Y>
+                <X>-0.42261502479575819</X>
+                <Y>-0.90630929644182767</Y>
               </Normal>
             </HoldingTab>
             <HoldingTab>
               <NormalInverted>false</NormalInverted>
               <ParentEntityID>74</ParentEntityID>
-              <ParametricPoint>0.23535260062463856</ParametricPoint>
+              <ParametricPoint>0.23535260062463878</ParametricPoint>
               <Normal>
-                <X>-0.99920404129270357</X>
-                <Y>-0.039890899517675604</Y>
+                <X>-0.99920404129270535</X>
+                <Y>-0.039890899517630439</Y>
               </Normal>
             </HoldingTab>
             <HoldingTab>
               <NormalInverted>false</NormalInverted>
               <ParentEntityID>74</ParentEntityID>
-              <ParametricPoint>0.26673294737459036</ParametricPoint>
+              <ParametricPoint>0.26673294737459058</ParametricPoint>
               <Normal>
-                <X>-0.90631083039915672</X>
-                <Y>0.42261173516738826</Y>
+                <X>-0.906310830399156</X>
+                <Y>0.42261173516739003</Y>
               </Normal>
             </HoldingTab>
             <HoldingTab>
               <NormalInverted>false</NormalInverted>
               <ParentEntityID>74</ParentEntityID>
-              <ParametricPoint>0.29811329412454207</ParametricPoint>
+              <ParametricPoint>0.29811329412454235</ParametricPoint>
               <Normal>
-                <X>-0.90631083039915672</X>
-                <Y>0.42261173516738826</Y>
+                <X>-0.906310830399156</X>
+                <Y>0.42261173516739003</Y>
               </Normal>
             </HoldingTab>
             <HoldingTab>
               <NormalInverted>false</NormalInverted>
               <ParentEntityID>74</ParentEntityID>
-              <ParametricPoint>0.32949364087449406</ParametricPoint>
+              <ParametricPoint>0.32949364087449418</ParametricPoint>
               <Normal>
-                <X>-0.39157126237630557</X>
-                <Y>0.92014778513075079</Y>
+                <X>-0.39157126237623591</X>
+                <Y>0.92014778513078055</Y>
               </Normal>
             </HoldingTab>
             <HoldingTab>
               <NormalInverted>false</NormalInverted>
               <ParentEntityID>74</ParentEntityID>
-              <ParametricPoint>0.36087398762444578</ParametricPoint>
+              <ParametricPoint>0.36087398762444606</ParametricPoint>
               <Normal>
-                <X>0.4225549216909319</X>
-                <Y>0.90633732029237912</Y>
+                <X>0.42255492169092856</X>
+                <Y>0.90633732029238057</Y>
               </Normal>
             </HoldingTab>
             <HoldingTab>
               <NormalInverted>false</NormalInverted>
               <ParentEntityID>74</ParentEntityID>
-              <ParametricPoint>0.39225433437439761</ParametricPoint>
+              <ParametricPoint>0.39225433437439788</ParametricPoint>
               <Normal>
-                <X>0.4225549216909319</X>
-                <Y>0.90633732029237912</Y>
+                <X>0.42255492169092856</X>
+                <Y>0.90633732029238057</Y>
               </Normal>
             </HoldingTab>
             <HoldingTab>
               <NormalInverted>false</NormalInverted>
               <ParentEntityID>74</ParentEntityID>
-              <ParametricPoint>0.42363468112434943</ParametricPoint>
+              <ParametricPoint>0.42363468112434982</ParametricPoint>
               <Normal>
-                <X>0.4225549216909319</X>
-                <Y>0.90633732029237912</Y>
+                <X>0.42255492169092856</X>
+                <Y>0.90633732029238057</Y>
               </Normal>
             </HoldingTab>
             <HoldingTab>
               <NormalInverted>false</NormalInverted>
               <ParentEntityID>74</ParentEntityID>
-              <ParametricPoint>0.45501502787430131</ParametricPoint>
+              <ParametricPoint>0.45501502787430154</ParametricPoint>
               <Normal>
-                <X>0.4225549216909319</X>
-                <Y>0.90633732029237912</Y>
+                <X>0.42255492169092856</X>
+                <Y>0.90633732029238057</Y>
               </Normal>
             </HoldingTab>
             <HoldingTab>
               <NormalInverted>false</NormalInverted>
               <ParentEntityID>74</ParentEntityID>
-              <ParametricPoint>0.48639537462425303</ParametricPoint>
+              <ParametricPoint>0.48639537462425336</ParametricPoint>
               <Normal>
                 <X>-0</X>
                 <Y>1</Y>
@@ -3204,7 +3204,7 @@
             <HoldingTab>
               <NormalInverted>false</NormalInverted>
               <ParentEntityID>74</ParentEntityID>
-              <ParametricPoint>0.5177757213742048</ParametricPoint>
+              <ParametricPoint>0.51777572137420524</ParametricPoint>
               <Normal>
                 <X>-0</X>
                 <Y>1</Y>
@@ -3213,7 +3213,7 @@
             <HoldingTab>
               <NormalInverted>false</NormalInverted>
               <ParentEntityID>74</ParentEntityID>
-              <ParametricPoint>0.54915606812415663</ParametricPoint>
+              <ParametricPoint>0.54915606812415707</ParametricPoint>
               <Normal>
                 <X>-0</X>
                 <Y>1</Y>
@@ -3222,34 +3222,25 @@
             <HoldingTab>
               <NormalInverted>false</NormalInverted>
               <ParentEntityID>74</ParentEntityID>
-              <ParametricPoint>0.58053641487410845</ParametricPoint>
+              <ParametricPoint>0.5805364148741089</ParametricPoint>
               <Normal>
-                <X>-0.0082621018300069737</X>
-                <Y>0.99996586825418721</Y>
+                <X>-0.0082621018299572253</X>
+                <Y>0.99996586825418765</Y>
               </Normal>
             </HoldingTab>
             <HoldingTab>
               <NormalInverted>false</NormalInverted>
               <ParentEntityID>74</ParentEntityID>
-              <ParametricPoint>0.61191676162406028</ParametricPoint>
+              <ParametricPoint>0.61191676162406072</ParametricPoint>
               <Normal>
-                <X>0.99825646390426126</X>
-                <Y>0.059025691638136979</Y>
+                <X>0.99825646390426315</X>
+                <Y>0.059025691638101896</Y>
               </Normal>
             </HoldingTab>
             <HoldingTab>
               <NormalInverted>false</NormalInverted>
               <ParentEntityID>74</ParentEntityID>
-              <ParametricPoint>0.64329710837401211</ParametricPoint>
-              <Normal>
-                <X>1</X>
-                <Y>0</Y>
-              </Normal>
-            </HoldingTab>
-            <HoldingTab>
-              <NormalInverted>false</NormalInverted>
-              <ParentEntityID>74</ParentEntityID>
-              <ParametricPoint>0.67467745512396393</ParametricPoint>
+              <ParametricPoint>0.64329710837401255</ParametricPoint>
               <Normal>
                 <X>1</X>
                 <Y>0</Y>
@@ -3258,7 +3249,7 @@
             <HoldingTab>
               <NormalInverted>false</NormalInverted>
               <ParentEntityID>74</ParentEntityID>
-              <ParametricPoint>0.70605780187391576</ParametricPoint>
+              <ParametricPoint>0.67467745512396426</ParametricPoint>
               <Normal>
                 <X>1</X>
                 <Y>0</Y>
@@ -3267,7 +3258,7 @@
             <HoldingTab>
               <NormalInverted>false</NormalInverted>
               <ParentEntityID>74</ParentEntityID>
-              <ParametricPoint>0.73743814862386747</ParametricPoint>
+              <ParametricPoint>0.7060578018739162</ParametricPoint>
               <Normal>
                 <X>1</X>
                 <Y>0</Y>
@@ -3276,7 +3267,7 @@
             <HoldingTab>
               <NormalInverted>false</NormalInverted>
               <ParentEntityID>74</ParentEntityID>
-              <ParametricPoint>0.7688184953738193</ParametricPoint>
+              <ParametricPoint>0.737438148623868</ParametricPoint>
               <Normal>
                 <X>1</X>
                 <Y>0</Y>
@@ -3285,16 +3276,25 @@
             <HoldingTab>
               <NormalInverted>false</NormalInverted>
               <ParentEntityID>74</ParentEntityID>
-              <ParametricPoint>0.80019884212377113</ParametricPoint>
+              <ParametricPoint>0.76881849537381985</ParametricPoint>
               <Normal>
-                <X>0.042406814474018693</X>
-                <Y>-0.99910042642677621</Y>
+                <X>1</X>
+                <Y>0</Y>
               </Normal>
             </HoldingTab>
             <HoldingTab>
               <NormalInverted>false</NormalInverted>
               <ParentEntityID>74</ParentEntityID>
-              <ParametricPoint>0.831579188873723</ParametricPoint>
+              <ParametricPoint>0.80019884212377168</ParametricPoint>
+              <Normal>
+                <X>0.042406814473950068</X>
+                <Y>-0.99910042642677921</Y>
+              </Normal>
+            </HoldingTab>
+            <HoldingTab>
+              <NormalInverted>false</NormalInverted>
+              <ParentEntityID>74</ParentEntityID>
+              <ParametricPoint>0.83157918887372351</ParametricPoint>
               <Normal>
                 <X>1.7384437333595283E-14</X>
                 <Y>-1</Y>
@@ -3303,7 +3303,7 @@
             <HoldingTab>
               <NormalInverted>false</NormalInverted>
               <ParentEntityID>74</ParentEntityID>
-              <ParametricPoint>0.86295953562367478</ParametricPoint>
+              <ParametricPoint>0.86295953562367533</ParametricPoint>
               <Normal>
                 <X>1.7384437333595283E-14</X>
                 <Y>-1</Y>
@@ -3312,7 +3312,7 @@
             <HoldingTab>
               <NormalInverted>false</NormalInverted>
               <ParentEntityID>74</ParentEntityID>
-              <ParametricPoint>0.8943398823736266</ParametricPoint>
+              <ParametricPoint>0.89433988237362716</ParametricPoint>
               <Normal>
                 <X>-1.4285313059256378E-14</X>
                 <Y>-1</Y>
@@ -3321,7 +3321,7 @@
             <HoldingTab>
               <NormalInverted>false</NormalInverted>
               <ParentEntityID>74</ParentEntityID>
-              <ParametricPoint>0.92572022912357832</ParametricPoint>
+              <ParametricPoint>0.925720229123579</ParametricPoint>
               <Normal>
                 <X>-1.4285313059256378E-14</X>
                 <Y>-1</Y>
@@ -3330,7 +3330,7 @@
             <HoldingTab>
               <NormalInverted>false</NormalInverted>
               <ParentEntityID>74</ParentEntityID>
-              <ParametricPoint>0.95710057587353015</ParametricPoint>
+              <ParametricPoint>0.95710057587353081</ParametricPoint>
               <Normal>
                 <X>-1.4285313059256378E-14</X>
                 <Y>-1</Y>
@@ -3339,7 +3339,7 @@
             <HoldingTab>
               <NormalInverted>false</NormalInverted>
               <ParentEntityID>74</ParentEntityID>
-              <ParametricPoint>0.988480922623482</ParametricPoint>
+              <ParametricPoint>0.98848092262348264</ParametricPoint>
               <Normal>
                 <X>-1.4285313059256378E-14</X>
                 <Y>-1</Y>
@@ -3370,7 +3370,10 @@
           <SpindleSpeed state="Default">1000</SpindleSpeed>
           <SpindleRange state="Default">0</SpindleRange>
           <VelocityMode state="Default">Undefined</VelocityMode>
-          <primitive />
+          <primitive>
+            <prim>52</prim>
+            <prim>74</prim>
+          </primitive>
           <TargetDepth state="Value">-8</TargetDepth>
           <DepthIncrement state="Value">8</DepthIncrement>
           <FinalDepthIncrement state="Default">0</FinalDepthIncrement>
@@ -3405,6 +3408,584 @@
             <UseLeadIns>True</UseLeadIns>
             <TabStyle>Triangle</TabStyle>
           </HoldingTabs>
+          <Tabs>
+            <HoldingTab>
+              <NormalInverted>false</NormalInverted>
+              <ParentEntityID>52</ParentEntityID>
+              <ParametricPoint>0.015690173374975906</ParametricPoint>
+              <Normal>
+                <X>0.025327824118205371</X>
+                <Y>0.999679199206144</Y>
+              </Normal>
+            </HoldingTab>
+            <HoldingTab>
+              <NormalInverted>false</NormalInverted>
+              <ParentEntityID>52</ParentEntityID>
+              <ParametricPoint>0.04707052012492776</ParametricPoint>
+              <Normal>
+                <X>-1</X>
+                <Y>-0</Y>
+              </Normal>
+            </HoldingTab>
+            <HoldingTab>
+              <NormalInverted>false</NormalInverted>
+              <ParentEntityID>52</ParentEntityID>
+              <ParametricPoint>0.078450866874879566</ParametricPoint>
+              <Normal>
+                <X>-1</X>
+                <Y>-0</Y>
+              </Normal>
+            </HoldingTab>
+            <HoldingTab>
+              <NormalInverted>false</NormalInverted>
+              <ParentEntityID>52</ParentEntityID>
+              <ParametricPoint>0.10983121362483131</ParametricPoint>
+              <Normal>
+                <X>-1</X>
+                <Y>-0</Y>
+              </Normal>
+            </HoldingTab>
+            <HoldingTab>
+              <NormalInverted>false</NormalInverted>
+              <ParentEntityID>52</ParentEntityID>
+              <ParametricPoint>0.14121156037478311</ParametricPoint>
+              <Normal>
+                <X>-1</X>
+                <Y>-0</Y>
+              </Normal>
+            </HoldingTab>
+            <HoldingTab>
+              <NormalInverted>false</NormalInverted>
+              <ParentEntityID>52</ParentEntityID>
+              <ParametricPoint>0.17259190712473491</ParametricPoint>
+              <Normal>
+                <X>-0.42261502479575319</X>
+                <Y>0.90630929644183</Y>
+              </Normal>
+            </HoldingTab>
+            <HoldingTab>
+              <NormalInverted>false</NormalInverted>
+              <ParentEntityID>52</ParentEntityID>
+              <ParametricPoint>0.20397225387468673</ParametricPoint>
+              <Normal>
+                <X>-0.42261502479575319</X>
+                <Y>0.90630929644183</Y>
+              </Normal>
+            </HoldingTab>
+            <HoldingTab>
+              <NormalInverted>false</NormalInverted>
+              <ParentEntityID>52</ParentEntityID>
+              <ParametricPoint>0.23535260062463853</ParametricPoint>
+              <Normal>
+                <X>-0.99920404129270357</X>
+                <Y>0.03989089951767464</Y>
+              </Normal>
+            </HoldingTab>
+            <HoldingTab>
+              <NormalInverted>false</NormalInverted>
+              <ParentEntityID>52</ParentEntityID>
+              <ParametricPoint>0.26673294737459036</ParametricPoint>
+              <Normal>
+                <X>-0.90631083039915694</X>
+                <Y>-0.42261173516738809</Y>
+              </Normal>
+            </HoldingTab>
+            <HoldingTab>
+              <NormalInverted>false</NormalInverted>
+              <ParentEntityID>52</ParentEntityID>
+              <ParametricPoint>0.29811329412454213</ParametricPoint>
+              <Normal>
+                <X>-0.90631083039915694</X>
+                <Y>-0.42261173516738809</Y>
+              </Normal>
+            </HoldingTab>
+            <HoldingTab>
+              <NormalInverted>false</NormalInverted>
+              <ParentEntityID>52</ParentEntityID>
+              <ParametricPoint>0.32949364087449395</ParametricPoint>
+              <Normal>
+                <X>-0.39157126237631956</X>
+                <Y>-0.9201477851307448</Y>
+              </Normal>
+            </HoldingTab>
+            <HoldingTab>
+              <NormalInverted>false</NormalInverted>
+              <ParentEntityID>52</ParentEntityID>
+              <ParametricPoint>0.36087398762444572</ParametricPoint>
+              <Normal>
+                <X>0.42255492169093251</X>
+                <Y>-0.90633732029237879</Y>
+              </Normal>
+            </HoldingTab>
+            <HoldingTab>
+              <NormalInverted>false</NormalInverted>
+              <ParentEntityID>52</ParentEntityID>
+              <ParametricPoint>0.39225433437439755</ParametricPoint>
+              <Normal>
+                <X>0.42255492169093251</X>
+                <Y>-0.90633732029237879</Y>
+              </Normal>
+            </HoldingTab>
+            <HoldingTab>
+              <NormalInverted>false</NormalInverted>
+              <ParentEntityID>52</ParentEntityID>
+              <ParametricPoint>0.42363468112434932</ParametricPoint>
+              <Normal>
+                <X>0.42255492169093251</X>
+                <Y>-0.90633732029237879</Y>
+              </Normal>
+            </HoldingTab>
+            <HoldingTab>
+              <NormalInverted>false</NormalInverted>
+              <ParentEntityID>52</ParentEntityID>
+              <ParametricPoint>0.45501502787430115</ParametricPoint>
+              <Normal>
+                <X>0.42255492169093251</X>
+                <Y>-0.90633732029237879</Y>
+              </Normal>
+            </HoldingTab>
+            <HoldingTab>
+              <NormalInverted>false</NormalInverted>
+              <ParentEntityID>52</ParentEntityID>
+              <ParametricPoint>0.486395374624253</ParametricPoint>
+              <Normal>
+                <X>0</X>
+                <Y>-1</Y>
+              </Normal>
+            </HoldingTab>
+            <HoldingTab>
+              <NormalInverted>false</NormalInverted>
+              <ParentEntityID>52</ParentEntityID>
+              <ParametricPoint>0.5177757213742048</ParametricPoint>
+              <Normal>
+                <X>0</X>
+                <Y>-1</Y>
+              </Normal>
+            </HoldingTab>
+            <HoldingTab>
+              <NormalInverted>false</NormalInverted>
+              <ParentEntityID>52</ParentEntityID>
+              <ParametricPoint>0.54915606812415652</ParametricPoint>
+              <Normal>
+                <X>0</X>
+                <Y>-1</Y>
+              </Normal>
+            </HoldingTab>
+            <HoldingTab>
+              <NormalInverted>false</NormalInverted>
+              <ParentEntityID>52</ParentEntityID>
+              <ParametricPoint>0.58053641487410834</ParametricPoint>
+              <Normal>
+                <X>-0.0082621018300069651</X>
+                <Y>-0.99996586825418721</Y>
+              </Normal>
+            </HoldingTab>
+            <HoldingTab>
+              <NormalInverted>false</NormalInverted>
+              <ParentEntityID>52</ParentEntityID>
+              <ParametricPoint>0.61191676162406017</ParametricPoint>
+              <Normal>
+                <X>0.998256463904261</X>
+                <Y>-0.059025691638140074</Y>
+              </Normal>
+            </HoldingTab>
+            <HoldingTab>
+              <NormalInverted>false</NormalInverted>
+              <ParentEntityID>52</ParentEntityID>
+              <ParametricPoint>0.643297108374012</ParametricPoint>
+              <Normal>
+                <X>1</X>
+                <Y>-0</Y>
+              </Normal>
+            </HoldingTab>
+            <HoldingTab>
+              <NormalInverted>false</NormalInverted>
+              <ParentEntityID>52</ParentEntityID>
+              <ParametricPoint>0.67467745512396382</ParametricPoint>
+              <Normal>
+                <X>1</X>
+                <Y>-0</Y>
+              </Normal>
+            </HoldingTab>
+            <HoldingTab>
+              <NormalInverted>false</NormalInverted>
+              <ParentEntityID>52</ParentEntityID>
+              <ParametricPoint>0.70605780187391554</ParametricPoint>
+              <Normal>
+                <X>1</X>
+                <Y>-0</Y>
+              </Normal>
+            </HoldingTab>
+            <HoldingTab>
+              <NormalInverted>false</NormalInverted>
+              <ParentEntityID>52</ParentEntityID>
+              <ParametricPoint>0.73743814862386736</ParametricPoint>
+              <Normal>
+                <X>1</X>
+                <Y>-0</Y>
+              </Normal>
+            </HoldingTab>
+            <HoldingTab>
+              <NormalInverted>false</NormalInverted>
+              <ParentEntityID>52</ParentEntityID>
+              <ParametricPoint>0.76881849537381919</ParametricPoint>
+              <Normal>
+                <X>1</X>
+                <Y>-0</Y>
+              </Normal>
+            </HoldingTab>
+            <HoldingTab>
+              <NormalInverted>false</NormalInverted>
+              <ParentEntityID>52</ParentEntityID>
+              <ParametricPoint>0.800198842123771</ParametricPoint>
+              <Normal>
+                <X>0.042406814474010644</X>
+                <Y>0.99910042642677654</Y>
+              </Normal>
+            </HoldingTab>
+            <HoldingTab>
+              <NormalInverted>false</NormalInverted>
+              <ParentEntityID>52</ParentEntityID>
+              <ParametricPoint>0.83157918887372284</ParametricPoint>
+              <Normal>
+                <X>1.7384437333595283E-14</X>
+                <Y>1</Y>
+              </Normal>
+            </HoldingTab>
+            <HoldingTab>
+              <NormalInverted>false</NormalInverted>
+              <ParentEntityID>52</ParentEntityID>
+              <ParametricPoint>0.86295953562367456</ParametricPoint>
+              <Normal>
+                <X>1.7384437333595283E-14</X>
+                <Y>1</Y>
+              </Normal>
+            </HoldingTab>
+            <HoldingTab>
+              <NormalInverted>false</NormalInverted>
+              <ParentEntityID>52</ParentEntityID>
+              <ParametricPoint>0.89433988237362638</ParametricPoint>
+              <Normal>
+                <X>-1.4285313059256378E-14</X>
+                <Y>1</Y>
+              </Normal>
+            </HoldingTab>
+            <HoldingTab>
+              <NormalInverted>false</NormalInverted>
+              <ParentEntityID>52</ParentEntityID>
+              <ParametricPoint>0.92572022912357821</ParametricPoint>
+              <Normal>
+                <X>-1.4285313059256378E-14</X>
+                <Y>1</Y>
+              </Normal>
+            </HoldingTab>
+            <HoldingTab>
+              <NormalInverted>false</NormalInverted>
+              <ParentEntityID>52</ParentEntityID>
+              <ParametricPoint>0.95710057587353</ParametricPoint>
+              <Normal>
+                <X>-1.4285313059256378E-14</X>
+                <Y>1</Y>
+              </Normal>
+            </HoldingTab>
+            <HoldingTab>
+              <NormalInverted>false</NormalInverted>
+              <ParentEntityID>52</ParentEntityID>
+              <ParametricPoint>0.98848092262348186</ParametricPoint>
+              <Normal>
+                <X>-1.4285313059256378E-14</X>
+                <Y>1</Y>
+              </Normal>
+            </HoldingTab>
+            <HoldingTab>
+              <NormalInverted>false</NormalInverted>
+              <ParentEntityID>74</ParentEntityID>
+              <ParametricPoint>0.01569017337497592</ParametricPoint>
+              <Normal>
+                <X>0.025327824118205371</X>
+                <Y>-0.999679199206144</Y>
+              </Normal>
+            </HoldingTab>
+            <HoldingTab>
+              <NormalInverted>false</NormalInverted>
+              <ParentEntityID>74</ParentEntityID>
+              <ParametricPoint>0.047070520124927712</ParametricPoint>
+              <Normal>
+                <X>-1</X>
+                <Y>0</Y>
+              </Normal>
+            </HoldingTab>
+            <HoldingTab>
+              <NormalInverted>false</NormalInverted>
+              <ParentEntityID>74</ParentEntityID>
+              <ParametricPoint>0.0784508668748796</ParametricPoint>
+              <Normal>
+                <X>-1</X>
+                <Y>0</Y>
+              </Normal>
+            </HoldingTab>
+            <HoldingTab>
+              <NormalInverted>false</NormalInverted>
+              <ParentEntityID>74</ParentEntityID>
+              <ParametricPoint>0.10983121362483136</ParametricPoint>
+              <Normal>
+                <X>-1</X>
+                <Y>0</Y>
+              </Normal>
+            </HoldingTab>
+            <HoldingTab>
+              <NormalInverted>false</NormalInverted>
+              <ParentEntityID>74</ParentEntityID>
+              <ParametricPoint>0.14121156037478325</ParametricPoint>
+              <Normal>
+                <X>-1</X>
+                <Y>0</Y>
+              </Normal>
+            </HoldingTab>
+            <HoldingTab>
+              <NormalInverted>false</NormalInverted>
+              <ParentEntityID>74</ParentEntityID>
+              <ParametricPoint>0.17259190712473507</ParametricPoint>
+              <Normal>
+                <X>-0.42261502479575819</X>
+                <Y>-0.90630929644182767</Y>
+              </Normal>
+            </HoldingTab>
+            <HoldingTab>
+              <NormalInverted>false</NormalInverted>
+              <ParentEntityID>74</ParentEntityID>
+              <ParametricPoint>0.2039722538746869</ParametricPoint>
+              <Normal>
+                <X>-0.42261502479575819</X>
+                <Y>-0.90630929644182767</Y>
+              </Normal>
+            </HoldingTab>
+            <HoldingTab>
+              <NormalInverted>false</NormalInverted>
+              <ParentEntityID>74</ParentEntityID>
+              <ParametricPoint>0.23535260062463878</ParametricPoint>
+              <Normal>
+                <X>-0.99920404129270535</X>
+                <Y>-0.039890899517630439</Y>
+              </Normal>
+            </HoldingTab>
+            <HoldingTab>
+              <NormalInverted>false</NormalInverted>
+              <ParentEntityID>74</ParentEntityID>
+              <ParametricPoint>0.26673294737459058</ParametricPoint>
+              <Normal>
+                <X>-0.906310830399156</X>
+                <Y>0.42261173516739003</Y>
+              </Normal>
+            </HoldingTab>
+            <HoldingTab>
+              <NormalInverted>false</NormalInverted>
+              <ParentEntityID>74</ParentEntityID>
+              <ParametricPoint>0.29811329412454235</ParametricPoint>
+              <Normal>
+                <X>-0.906310830399156</X>
+                <Y>0.42261173516739003</Y>
+              </Normal>
+            </HoldingTab>
+            <HoldingTab>
+              <NormalInverted>false</NormalInverted>
+              <ParentEntityID>74</ParentEntityID>
+              <ParametricPoint>0.32949364087449418</ParametricPoint>
+              <Normal>
+                <X>-0.39157126237623591</X>
+                <Y>0.92014778513078055</Y>
+              </Normal>
+            </HoldingTab>
+            <HoldingTab>
+              <NormalInverted>false</NormalInverted>
+              <ParentEntityID>74</ParentEntityID>
+              <ParametricPoint>0.36087398762444606</ParametricPoint>
+              <Normal>
+                <X>0.42255492169092856</X>
+                <Y>0.90633732029238057</Y>
+              </Normal>
+            </HoldingTab>
+            <HoldingTab>
+              <NormalInverted>false</NormalInverted>
+              <ParentEntityID>74</ParentEntityID>
+              <ParametricPoint>0.39225433437439788</ParametricPoint>
+              <Normal>
+                <X>0.42255492169092856</X>
+                <Y>0.90633732029238057</Y>
+              </Normal>
+            </HoldingTab>
+            <HoldingTab>
+              <NormalInverted>false</NormalInverted>
+              <ParentEntityID>74</ParentEntityID>
+              <ParametricPoint>0.42363468112434982</ParametricPoint>
+              <Normal>
+                <X>0.42255492169092856</X>
+                <Y>0.90633732029238057</Y>
+              </Normal>
+            </HoldingTab>
+            <HoldingTab>
+              <NormalInverted>false</NormalInverted>
+              <ParentEntityID>74</ParentEntityID>
+              <ParametricPoint>0.45501502787430154</ParametricPoint>
+              <Normal>
+                <X>0.42255492169092856</X>
+                <Y>0.90633732029238057</Y>
+              </Normal>
+            </HoldingTab>
+            <HoldingTab>
+              <NormalInverted>false</NormalInverted>
+              <ParentEntityID>74</ParentEntityID>
+              <ParametricPoint>0.48639537462425336</ParametricPoint>
+              <Normal>
+                <X>-0</X>
+                <Y>1</Y>
+              </Normal>
+            </HoldingTab>
+            <HoldingTab>
+              <NormalInverted>false</NormalInverted>
+              <ParentEntityID>74</ParentEntityID>
+              <ParametricPoint>0.51777572137420524</ParametricPoint>
+              <Normal>
+                <X>-0</X>
+                <Y>1</Y>
+              </Normal>
+            </HoldingTab>
+            <HoldingTab>
+              <NormalInverted>false</NormalInverted>
+              <ParentEntityID>74</ParentEntityID>
+              <ParametricPoint>0.54915606812415707</ParametricPoint>
+              <Normal>
+                <X>-0</X>
+                <Y>1</Y>
+              </Normal>
+            </HoldingTab>
+            <HoldingTab>
+              <NormalInverted>false</NormalInverted>
+              <ParentEntityID>74</ParentEntityID>
+              <ParametricPoint>0.5805364148741089</ParametricPoint>
+              <Normal>
+                <X>-0.0082621018299572253</X>
+                <Y>0.99996586825418765</Y>
+              </Normal>
+            </HoldingTab>
+            <HoldingTab>
+              <NormalInverted>false</NormalInverted>
+              <ParentEntityID>74</ParentEntityID>
+              <ParametricPoint>0.61191676162406072</ParametricPoint>
+              <Normal>
+                <X>0.99825646390426315</X>
+                <Y>0.059025691638101896</Y>
+              </Normal>
+            </HoldingTab>
+            <HoldingTab>
+              <NormalInverted>false</NormalInverted>
+              <ParentEntityID>74</ParentEntityID>
+              <ParametricPoint>0.64329710837401255</ParametricPoint>
+              <Normal>
+                <X>1</X>
+                <Y>0</Y>
+              </Normal>
+            </HoldingTab>
+            <HoldingTab>
+              <NormalInverted>false</NormalInverted>
+              <ParentEntityID>74</ParentEntityID>
+              <ParametricPoint>0.67467745512396426</ParametricPoint>
+              <Normal>
+                <X>1</X>
+                <Y>0</Y>
+              </Normal>
+            </HoldingTab>
+            <HoldingTab>
+              <NormalInverted>false</NormalInverted>
+              <ParentEntityID>74</ParentEntityID>
+              <ParametricPoint>0.7060578018739162</ParametricPoint>
+              <Normal>
+                <X>1</X>
+                <Y>0</Y>
+              </Normal>
+            </HoldingTab>
+            <HoldingTab>
+              <NormalInverted>false</NormalInverted>
+              <ParentEntityID>74</ParentEntityID>
+              <ParametricPoint>0.737438148623868</ParametricPoint>
+              <Normal>
+                <X>1</X>
+                <Y>0</Y>
+              </Normal>
+            </HoldingTab>
+            <HoldingTab>
+              <NormalInverted>false</NormalInverted>
+              <ParentEntityID>74</ParentEntityID>
+              <ParametricPoint>0.76881849537381985</ParametricPoint>
+              <Normal>
+                <X>1</X>
+                <Y>0</Y>
+              </Normal>
+            </HoldingTab>
+            <HoldingTab>
+              <NormalInverted>false</NormalInverted>
+              <ParentEntityID>74</ParentEntityID>
+              <ParametricPoint>0.80019884212377168</ParametricPoint>
+              <Normal>
+                <X>0.042406814473950068</X>
+                <Y>-0.99910042642677921</Y>
+              </Normal>
+            </HoldingTab>
+            <HoldingTab>
+              <NormalInverted>false</NormalInverted>
+              <ParentEntityID>74</ParentEntityID>
+              <ParametricPoint>0.83157918887372351</ParametricPoint>
+              <Normal>
+                <X>1.7384437333595283E-14</X>
+                <Y>-1</Y>
+              </Normal>
+            </HoldingTab>
+            <HoldingTab>
+              <NormalInverted>false</NormalInverted>
+              <ParentEntityID>74</ParentEntityID>
+              <ParametricPoint>0.86295953562367533</ParametricPoint>
+              <Normal>
+                <X>1.7384437333595283E-14</X>
+                <Y>-1</Y>
+              </Normal>
+            </HoldingTab>
+            <HoldingTab>
+              <NormalInverted>false</NormalInverted>
+              <ParentEntityID>74</ParentEntityID>
+              <ParametricPoint>0.89433988237362716</ParametricPoint>
+              <Normal>
+                <X>-1.4285313059256378E-14</X>
+                <Y>-1</Y>
+              </Normal>
+            </HoldingTab>
+            <HoldingTab>
+              <NormalInverted>false</NormalInverted>
+              <ParentEntityID>74</ParentEntityID>
+              <ParametricPoint>0.925720229123579</ParametricPoint>
+              <Normal>
+                <X>-1.4285313059256378E-14</X>
+                <Y>-1</Y>
+              </Normal>
+            </HoldingTab>
+            <HoldingTab>
+              <NormalInverted>false</NormalInverted>
+              <ParentEntityID>74</ParentEntityID>
+              <ParametricPoint>0.95710057587353081</ParametricPoint>
+              <Normal>
+                <X>-1.4285313059256378E-14</X>
+                <Y>-1</Y>
+              </Normal>
+            </HoldingTab>
+            <HoldingTab>
+              <NormalInverted>false</NormalInverted>
+              <ParentEntityID>74</ParentEntityID>
+              <ParametricPoint>0.98848092262348264</ParametricPoint>
+              <Normal>
+                <X>-1.4285313059256378E-14</X>
+                <Y>-1</Y>
+              </Normal>
+            </HoldingTab>
+          </Tabs>
           <SideProfile state="Default" />
         </profile>
       </machineops>
@@ -3588,7 +4169,7 @@
           <PlungeFeedrate state="Default">300</PlungeFeedrate>
           <CutFeedrate state="Value">2500</CutFeedrate>
           <MaxCrossoverDistance state="Default">0.7</MaxCrossoverDistance>
-          <StartPoint state="Default" />
+          <StartPoint state="Default">0,0,0</StartPoint>
           <CustomMOPHeader state="Default" />
           <CustomMOPFooter state="Default" />
           <Name>Stock Drill</Name>
